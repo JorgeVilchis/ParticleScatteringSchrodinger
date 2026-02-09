@@ -4,6 +4,8 @@ This project simulates a **2D time-dependent Schrödinger equation (TDSE)** wave
 scattering through a **finite periodic lattice** using a **split-step Fourier method**
 accelerated on an **NVIDIA GPU (cuFFT)**, with **real-time OpenGL visualization**.
 
+![](image/Simulation.png)
+
 The visualization encodes:
 - **Hue** → phase of the wavefunction  
 - **Brightness** → probability density  
