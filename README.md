@@ -85,8 +85,10 @@ Executable:
 ```bash
 ./build/tdse
 ```
+
 If execution fails with an error message like "cudaGraphicsGLRegisterImage failed. (Driver/GL context mismatch?)
 ", try to run it using prime which is the method below.
+
 ---
 
 ## Running with NVIDIA PRIME (Hybrid GPUs)
